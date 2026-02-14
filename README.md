@@ -14,18 +14,26 @@ Cardian is a Discord-native card game system built for fair, replayable gameplay
 
 ## Policies
 **Korvex**
-- Terms of Service: `/legal/Korvex_Terms_of_Service.md`
-- Transparency: `/legal/Korvex_Transparency.md`
+- Terms of Service: `/LEGAL/Korvex_Terms_of_Service.md`
+- Transparency: `/LEGAL/Korvex_Transparency.md`
 
 **Cardian**
-- Privacy Policy: `/legal/Cardian_Privacy_Policy.md`
+- Privacy Policy: `/LEGAL/Cardian_Privacy_Policy.md`
 
 ## License
 
-Cardian is source-available under the Cardian Source-Available License (CSAL) v1.1 (see `LICENSE`).  
-You can run and modify it, but you can’t use it to provide a competing hosted bot/service.
+Cardian is source-available under the Cardian Source-Available License (CSAL) v1.0 (see `LICENSE`).  
+You can run and modify it, but you can’t use it to provide a competing hosted bot/service or monetize public hosting.
 
-If Cardian is discontinued (repo archived or no maintenance activity for 12 months), it becomes `FINNISH LATER`
+Cardian recognizes two discontinuation states:
+
+**Temporary Discontinuation**  
+A public statement by Korvex indicating a pause in development. The main `LICENSE` remains active.
+
+**Permanent Discontinuation**  
+A public declaration by Korvex that development will not continue. Only then does the project transition to the Community License located in the `AFTER_DISCONTINUATION` directory.
+
+Silence, inactivity, or delayed updates do not constitute Permanent Discontinuation.
 
 <details>
 <summary><b>License summary (CSAL v1.0)</b></summary>
@@ -35,8 +43,8 @@ If Cardian is discontinued (repo archived or no maintenance activity for 12 mont
 |---|---|---|
 | Run and modify Cardian | No competing hosted bot/service | Keep `LICENSE` and notices |
 | Fork and redistribute | No trademark/branding rights | Mark significant changes |
-| Self-host for your own servers | No warranty | Include license in distributions |
-| Open source on discontinuation |  | MIT applies after discontinuation |
+| Self-host for your own servers | No commercial hosting | Include license in distributions |
+| Community license activates only on Permanent Discontinuation | No monetization | Follow CCL if activated |
 
 </details>
 
@@ -60,7 +68,7 @@ Yes. Self-hosting for your own Discord servers is allowed under the CSAL license
 <summary><b>Can I run a hosted Cardian service for other people?</b></summary>
 <br>
 
-No. The CSAL license blocks competing hosted bot/services.
+No. The CSAL license blocks competing hosted bot/services and monetized hosting.
 </details>
 
 <details>
@@ -74,5 +82,7 @@ Because people farm. Some thresholds and enforcement tuning stay private so Rank
 <summary><b>What happens if the project dies?</b></summary>
 <br>
 
-If Cardian is discontinued (repo archived or no maintenance activity for 12 months), it becomes `FINNISH LATER`
+If Korvex publicly declares Permanent Discontinuation, the project transitions to the Community License located in the `AFTER_DISCONTINUATION` directory.
+
+Silence or inactivity alone does not trigger this transition.
 </details>
