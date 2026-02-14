@@ -1,85 +1,85 @@
-# Cardian Source-Available License (CSAL) v1.11
+# Cardian Community License (CCL) v1.2
 
-Copyright (c) 2026 tankdadank  
+Copyright (c) 2026 Korvex  
 All rights reserved.
 
----
+This license activates only upon Permanent Discontinuation as defined in the main LICENSE file.
 
-## 1. Definitions
-
-"Software" means the Cardian source code, documentation, assets, builds, and related materials.
-
-"Competing Use" means hosting, distributing, sublicensing, monetizing, or making available the Software — or any derivative that retains core gameplay mechanics, rule structures, ranking systems, deterministic logic, or interaction models substantially derived from the Software — for public or commercial purposes.
-
-"Commercial Use" means any use intended for monetary gain, including but not limited to paid hosting, subscriptions, sponsorship-based access, resale, licensing, or bundled distribution.
+Temporary Discontinuation does not activate this license.
 
 ---
 
-## 2. License Grant
+## 1. License Grant
 
-You are granted a limited, non-exclusive, non-transferable, revocable license to:
+During Permanent Discontinuation, you may:
 
-- View the source code  
-- Modify the Software for personal use  
-- Self-host a non-commercial instance for private communities  
-- Submit contributions  
-
-This license does not grant ownership.
+- Use the Software
+- Modify the Software
+- Distribute modified or unmodified versions
+- Publicly host community-maintained instances
 
 ---
 
-## 3. Restrictions
+## 2. Attribution
+
+All forks and hosted versions must:
+
+- Credit "Cardian by Korvex"
+- Include:  
+  "Originally created as Cardian, the predecessor platform developed by Korvex."
+
+Attribution must be visible and not obscured.
+
+---
+
+## 3. Commercial Restriction
 
 You may not:
 
-- Engage in Competing Use  
-- Offer the Software as a public hosted service  
-- Sell, sublicense, or commercially distribute the Software  
-- Rebrand the Software  
-- Remove or alter copyright notices  
-- Use Cardian trademarks, branding, or logos without permission  
-- Intentionally restructure, modularize, or refactor the Software to circumvent these restrictions  
+- Sell the Software
+- Charge for hosting access
+- Monetize instances
+- Offer premium tiers
+- License for commercial gain
+
+Commercial Use remains permanently prohibited unless authorized in writing.
 
 ---
 
-## 4. Ownership
+## 4. Trademark
 
-All intellectual property rights remain the exclusive property of tankdadank.
+No rights to Cardian branding, logos, or domains are granted.
 
-No trademark rights are granted.
-
-No patent rights are granted.
+No implied endorsement allowed.
 
 ---
 
-## 5. Contributions
+## 5. Steward
 
-Any contribution submitted may be used, modified, relicensed, or incorporated without compensation.
+Korvex may designate a Steward during discontinuation.
 
----
-
-## 6. Termination
-
-This license terminates automatically if you violate any restriction.
-
-Upon termination, you must cease use and distribution immediately.
+Stewardship does not transfer ownership.
 
 ---
 
-## 7. Discontinuation
+## 6. Revival & Termination
 
-If the operator publicly declares Cardian permanently discontinued, the Software will no longer be governed by active development restrictions.
+If Korvex resumes development after Permanent Discontinuation:
 
-At that time, the Software will be relicensed under the Cardian Community License (CCL), as published by the operator.
+- This license terminates 180 days after public revival notice.
+- Forks may operate during the wind-down period.
+- After 180 days, operation must comply with the reinstated main license.
 
-Commercial Use remains prohibited unless explicitly authorized in writing.
+---
 
-No automatic relicensing to an open-source license occurs.
+## 7. Ownership
+
+All intellectual property remains owned by Korvex.
 
 ---
 
 ## 8. Disclaimer
 
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+THE SOFTWARE IS PROVIDED "AS IS".
 
-THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+KORVEX SHALL NOT BE LIABLE FOR ANY CLAIM OR DAMAGES ARISING FROM USE.
