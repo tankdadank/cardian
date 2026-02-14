@@ -1,4 +1,4 @@
-# Cardian Source-Available License (CSAL) v1.1
+# Cardian Source-Available License (CSAL) v1.11
 
 Copyright (c) 2026 tankdadank  
 All rights reserved.
@@ -68,9 +68,13 @@ Upon termination, you must cease use and distribution immediately.
 
 ## 7. Discontinuation
 
-If Cardian is permanently discontinued, the operator may choose to relicense the Software under a different license at their sole discretion.
+If the operator publicly declares Cardian permanently discontinued, the Software will no longer be governed by active development restrictions.
 
-No automatic relicensing occurs.
+At that time, the Software will be relicensed under the Cardian Community License (CCL), as published by the operator.
+
+Commercial Use remains prohibited unless explicitly authorized in writing.
+
+No automatic relicensing to an open-source license occurs.
 
 ---
 
