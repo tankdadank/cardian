@@ -26,7 +26,7 @@ Cardian is a Discord-native card game system built for fair, replayable gameplay
 Cardian is source-available under the Cardian Source-Available License (CSAL) v1.1 (see `LICENSE`).  
 You can run and modify it, but you can’t use it to provide a competing hosted bot/service.
 
-If Cardian is discontinued (repo archived or no maintenance activity for 12 months), it becomes open source under the MIT License (see `OPEN_SOURCE_LICENSE`).
+If Cardian is discontinued (repo archived or no maintenance activity for 12 months), it becomes `FINNISH LATER`
 
 <details>
 <summary><b>License summary (CSAL v1.0)</b></summary>
