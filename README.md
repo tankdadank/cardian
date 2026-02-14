@@ -9,7 +9,6 @@ Cardian is a Discord-native card game system built for fair, replayable gameplay
 
 - **Games**: Blackjack, Poker, Joker Jailbreak
 - **Modes**: Casual, Ranked, Custom, SVS (Server vs Server)
-- **AI personalities (5)**: None, Cautious, Extreme, Contradicting, Grandmaster
 - **Controls**: Buttons and dropdowns, no typing required
 - **Integrity**: Anti-farming, match logging, monthly resets
 
