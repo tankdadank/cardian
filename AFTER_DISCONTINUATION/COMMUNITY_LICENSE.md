@@ -1,4 +1,4 @@
-# Cardian Community License (CCL) v1
+# Cardian Community License (CCL) v1.0
 
 Copyright (c) 2026 Korvex  
 All rights reserved.
