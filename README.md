@@ -75,5 +75,5 @@ Because people farm. Some thresholds and enforcement tuning stay private so Rank
 <summary><b>What happens if the project dies?</b></summary>
 <br>
 
-If Cardian is discontinued (repo archived or no maintenance activity for 12 months), it becomes open source under MIT. See `OPEN_SOURCE_LICENSE`.
+If Cardian is discontinued (repo archived or no maintenance activity for 12 months), it becomes `FINNISH LATER`
 </details>
