@@ -1,75 +1,85 @@
-# Cardian Source-Available License (CSAL) v2.0
+# Cardian Community License (CCL) v1
 
 Copyright (c) 2026 Korvex  
-Operated by tankdadank  
 All rights reserved.
 
----
+This license activates only upon Permanent Discontinuation as defined in the main LICENSE file.
 
-## 1. Definitions
-
-"Software" means the Cardian source code, documentation, assets, builds, and related materials.
-
-"Commercial Use" means any use intended for monetary gain, including hosting fees, subscriptions, resale, paid access tiers, sponsorship-based monetization, or bundled services.
+Temporary Discontinuation does not activate this license.
 
 ---
 
-## 2. License Grant
+## 1. License Grant
 
-You are granted a limited, non-exclusive, non-transferable, revocable license to:
+During Permanent Discontinuation, you may:
 
-- View the source code
-- Modify for personal use
-- Self-host for private non-commercial communities
-- Submit contributions
-
-No ownership is transferred.
+- Use the Software
+- Modify the Software
+- Distribute modified or unmodified versions
+- Publicly host community-maintained instances
 
 ---
 
-## 3. Restrictions
+## 2. Attribution
+
+All forks and hosted versions must:
+
+- Credit "Cardian by Korvex"
+- Include:  
+  "Originally created as Cardian, the predecessor platform developed by Korvex."
+
+Attribution must be visible and not obscured.
+
+---
+
+## 3. Commercial Restriction
 
 You may not:
 
-- Engage in Commercial Use
 - Sell the Software
 - Charge for hosting access
+- Monetize instances
 - Offer premium tiers
-- Rebrand the Software
-- Remove copyright notices
-- Use Cardian trademarks without permission
-- Circumvent commercial restrictions
+- License for commercial gain
+
+Commercial Use remains permanently prohibited unless authorized in writing.
 
 ---
 
-## 4. Ownership
+## 4. Trademark
 
-All intellectual property rights remain the property of Korvex.
+No rights to Cardian branding, logos, or domains are granted.
 
-No trademark or patent rights are granted.
-
----
-
-## 5. Contributions
-
-Contributions may be used, modified, or relicensed by Korvex without compensation.
+No implied endorsement allowed.
 
 ---
 
-## 6. Discontinuation
+## 5. Steward
 
-Temporary Discontinuation means a public statement by Korvex indicating a pause in development.
+Korvex may designate a Steward during discontinuation.
 
-Permanent Discontinuation means a public statement declaring development will not resume.
-
-Silence or inactivity does not constitute Permanent Discontinuation.
-
-Upon Permanent Discontinuation, the Software will be relicensed under the Cardian Community License located in the AFTER_DISCONTINUATION directory.
+Stewardship does not transfer ownership.
 
 ---
 
-## 7. Disclaimer
+## 6. Revival & Termination
 
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+If Korvex resumes development after Permanent Discontinuation:
 
-KORVEX SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+- This license terminates 180 days after public revival notice.
+- Forks may operate during the wind-down period.
+- After 180 days, operation must comply with the reinstated main license.
+
+---
+
+## 7. Ownership
+
+All intellectual property remains owned by Korvex.
+
+---
+
+## 8. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS".
+
+KORVEX SHALL NOT BE LIABLE FOR ANY CLAIM OR DAMAGES ARISING FROM USE.
