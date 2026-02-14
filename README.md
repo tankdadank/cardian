@@ -91,10 +91,9 @@ After changing environment variables:
 ## Game Wiki
 
 Detailed documentation for each game:
-- [Wiki Index](/wiki/README.md)
+- [Wiki](/wiki/README.md)
 - [Blackjack](/wiki/blackjack.md)
 - [Poker](/wiki/poker.md)
-- [Pyramid](/wiki/pyramid.md)
 - [Gin Rummy](/wiki/rummy.md) (Experimental - Patreon only)
 - [Mao](/wiki/mao.md) (Experimental - Patreon only)
 
