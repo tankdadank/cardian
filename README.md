@@ -14,11 +14,11 @@ Cardian is a Discord-native card game system built for fair, replayable gameplay
 - **Integrity**: Anti-farming, match logging, monthly resets
 
 ## Policies
-Korvex
+**Korvex**
 - Terms of Service: `/legal/Korvex_Terms_of_Service.md`
 - Transparency: `/legal/Korvex_Transparency.md`
 
-Cardian
+**Cardian**
 - Privacy Policy: `/legal/Cardian_Privacy_Policy.md`
 
 ## License
