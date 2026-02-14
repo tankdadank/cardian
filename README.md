@@ -47,9 +47,9 @@ Cardian is a Discord-native card game system built for fair, replayable gameplay
 | Command | Description |
 |---|---|
 | `/cardian` | Main hub and navigation |
-| `/play` | Start a casual game |
+| `/play` | Start a game |
 | `/ranked` | Play competitive matches |
-| `/custom` | Custom game configurations |
+| `/data` | View and manage your data |
 | `/variant` | View game variants |
 | `/profile` | View player stats |
 | `/achievements` | View achievements |
