@@ -1,6 +1,6 @@
 # Cardian
 
-Cardian is a Discord-native card game system built for fair, replayable gameplay with a clean, button-driven UI.
+Cardian is a Discord-native card game bot built for fair, replayable gameplay with a clean, button-driven UI.
 
 > Status: **Early development**  
 > Expect balance tweaks, UI polish, and occasional breaking changes.
